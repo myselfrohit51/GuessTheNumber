@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightpurple">#FF00CC </color>
+    <color name="lightwhite">#FFFFCC </color>
+    <color name="lightblue">#00CCFF</color>
+    <color name="purple">#8E24AA</color>
+    <color name="blue">#0099FF</color>
+    <color name="orange">#FF3333</color>
+    <color name="green">#2E7D32</color>
+    <color name="darkslate">#2B3856</color>
+    <color name="dark1">#1F4F8D </color>
+    <color name="dark2">#7D09AB </color>
+    <color name="dark3">#F21892 </color>
+    <color name="green2">#A0F95B</color>
+    <color name="Darkblue">#80ff72</color>
+    <color name="skycolor">#5BF9E9</color>
+    <color name="yellow">#F9F95B</color>
+    <color name="forbtn1">#F66CED</color>
+    <color name="forbtn2">#F6A86C</color>
+    <color name="forbtn3">#78ffd6</color>
+    <color name="dark_red">#F92020</color>
+    <color name="dark_blue">#202EF9</color>
+    <color name="light_pink">#FA73DF</color>
+    <color name="light_green">#007991</color>
+    <color name="light_yellow">#7ee8fa</color>
+</resources>
